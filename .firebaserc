@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "platzi-store-c9501": {
+      "hosting": {
+        "pwa-angular": [
+          "platzi-store-c9501"
+        ]
+      }
+    }
+  }
+}
